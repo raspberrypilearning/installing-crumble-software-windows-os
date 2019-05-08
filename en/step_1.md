@@ -1,58 +1,49 @@
-## Introduction
+## Installing Crumble software on Windows OS
 
-Add project description here. What will learners be making?
+--- task ---
 
-### What you will make
+In a Google Chrome web browser window, navigate to the Crumble software download page, https://redfernelectronics.co.uk/crumble-software/.
 
---- no-print ---
-Add instructions for using the embedded content here.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+![Crumble download page](images/crumble_win_download.png)
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+Click on the Windows download MSI link.
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+![Opening downloaded DMG file](images/win1.png)
 
-+ Describe hardware here
+At the bottom left of the page in the file download tab, click on the upward arrow and choose open.
 
-### Software
+A window will open prompting you to drag the Crumble program file into the Applications folder.
 
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
 
-### Downloads
 
-+ [rpf.io/project-name-go](http://rpf.io/project-name-go){:target="_blank"}
+![Dragging the Crumbel program file](images/win2.png)
 
---- /collapse ---
 
---- collapse ---
----
-title: What you will learn
----
+Depending on your Mac's security settings, you may get a pop up window saying that Crumble cannot be opened because the developer cannot be confirmed. If this happens, Click OK.
 
-+ Two or three learning objectives
-+ ...should go here
+![Crumble security check](images/win3.png)
 
---- /collapse ---
+Now open your Mac's Settings (you can open settings in many ways including clicking on the Apple symbol in the top left corner and choosing System Preferences...)
 
---- collapse ---
----
-title: Additional information for educators
----
+![Mac Settings home](images/win4.png)
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
+In Settings, choose Security & Privacy.
 
-[Here is a link to the resources for this project](http://rpf.io/project-name-go).
+![Mac Settings Security](images/win5.png)
 
---- /collapse ---
+In the Security General tab we will need click the Open Anyway button, but first we need to unlock the security settings. Click on the padlock symbol in the bottom left of the window.
+
+![Mac System password check](images/win6.png)
+
+Enter the system password for the Mac you are using. If it is not your machine, you will need to ask the owner or perhaps the network administrator.
+
+![Mac Settings Security open Crumble](images/mac_security_open.png)
+
+Once unlocked, click on the Open Anyway button.
+
+![Mac Crumble file open](images/mac_crumble_open.png)
+
+Finally, click the Open button and the Crumble software should now open. In future, the Crumble software should open without the need for any security checks.
+
+--- /task ---
