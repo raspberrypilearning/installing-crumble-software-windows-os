@@ -1,4 +1,4 @@
-## Installing Crumble software on Windows OS
+## Installing Crumble software on Windows
 
 --- task ---
 
