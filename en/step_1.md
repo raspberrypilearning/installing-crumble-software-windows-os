@@ -1,5 +1,3 @@
---- task ---
-
 In a Google Chrome web browser window, navigate to the Crumble software download page, [https://redfernelectronics.co.uk/crumble-software/](https://redfernelectronics.co.uk/crumble-software/){:target="_blank"}.
 
 ![Crumble download page](images/crumble_win_download.png)
@@ -31,5 +29,3 @@ User Account Control will check that you have permission. If you do, then click 
 ![Install finish window](images/win6.png)
 
 Finally, click Finish to exit the installer.
-
---- /task ---
