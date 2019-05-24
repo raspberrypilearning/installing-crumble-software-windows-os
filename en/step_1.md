@@ -1,5 +1,3 @@
-## Installing Crumble software on Windows
-
 --- task ---
 
 In a Google Chrome web browser window, navigate to the Crumble software download page, [https://redfernelectronics.co.uk/crumble-software/](https://redfernelectronics.co.uk/crumble-software/){:target="_blank"}.
