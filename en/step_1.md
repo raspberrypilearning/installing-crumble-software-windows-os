@@ -1,31 +1,31 @@
-In a Google Chrome web browser window, navigate to the Crumble software download page, [https://redfernelectronics.co.uk/crumble-software/](https://redfernelectronics.co.uk/crumble-software/){:target="_blank"}.
+In a Google Chrome web browser window, navigate to the Crumble software download page [redfernelectronics.co.uk/crumble-software](https://redfernelectronics.co.uk/crumble-software/){:target="_blank"}.
+
+Click on the **Windows MSI** link to download the software.
 
 ![Crumble download page](images/crumble_win_download.png)
 
-Click on the Windows download MSI link.
+At the bottom left-hand of the page, in the file download tab, click on the upward arrow. Then click on **Open**.
 
 ![Opening downloaded MSI file](images/win1.png)
 
-At the bottom left of the page in the file download tab, click on the upward arrow and choose open.
+An install dialogue window opens.
 
-An install dialogue box will open and you simply follow the instructions to complete the installation.
+Click on **Next**.
 
 ![Continue install window](images/win2.png)
 
-Continue or cancel? Click Next.
+Click on **Next**.
 
 ![Destination folder window](images/win3.png)
 
-Accept the default install location. Click Next.
+Click on **Install** to begin the installation process.
 
 ![Install window](images/win4.png)
 
-Begin install. Click Install.
+Your computer checks that you have permission to install software. If you do have permission, then click on **Yes**. If you do not have permission, ask for help from the computer's owner or perhaps the network administrator.
 
 ![User control window](images/win5.png)
 
-User Account Control will check that you have permission. If you do, then click Yes. If you do not, you will need help from the device's owner or perhaps the network administrator.
+Finally, click on **Finish** to complete the installation process.
 
 ![Install finish window](images/win6.png)
-
-Finally, click Finish to exit the installer.
